@@ -1,0 +1,67 @@
+Cengiz ADANIR    Software engineer	
+  06793 Ankara, Turkiye
+  +90 551 419 92 11
+  cadanir@gmail.com
+
+Open to a knew project, any language under Linux.
+
+SKILLS
+  Linux - PostgreSql – Apache, Nginx - Php8 Python3 Bash Html5 NodeJS 
+
+  English (read-write),    français/french (as native),    turkish
+
+EXPERIENCE
+
+  TayfTeknoloji, Ankara, Turkey - October 2019 to February 2022, 14-10-2019 to 19-02-2022
+    Test & Integration expert: October 2019 to June 2021
+    Software engineer: June 2021 to February 2022 
+      - network speed test bash scripting,
+      - web console to manage a TCP accelerator device
+      Html Vue3 Bash PHP8 Python3 Cockpit Linux
+
+      Note: Specific Linux configuration and installation Bash scripts. 
+      Also Cockpit/Jquery plugins.
+      The performance of the product at version 2.1.x has been certified by TUBITAK.
+      My personal network tests reached 1 616 814 simultaneous established TCP connections 
+      on Nginx Echo server. 
+      Download speed improvement from 10% to 300% depending on network perturbations.
+
+  Yiğitakü, Ankara - June to August 2014
+    Programmer: 3D SPA webapp, Excel to TSQL SqlServer2014 D3.js C# ASP.Net IIS
+
+  Faraz Metal, Ankara - April to December 2013
+    Programmer: PHP Joomla3.2 Wordpress3.8 jQuery Moodle26 Apache2 IIS7 DNS
+
+  Damla Petrol, Ankara - March to June 2012	
+    Senior Consultant: legal reporting to EPDK, Win7 SqlServer2008
+
+  Mediavision/ABM, Paris - May to August 2010
+    System Integration expert: Mysql schema update for Medicis, a Tomcat Webapp for cinema advertisement
+
+  Objectware, Paris - November 2005 to June 2009
+    Unix expert:
+      - Porting of ABS, banking Custody Application from HP-MPE to HP-UX
+      - intranet application using C#/ASP.Net for PDF generation
+
+  CS, www.c-s.fr, Paris - April 2001 to August 2005
+    Application porting expert: 
+      - GE Money Bank: Administration and backup with Tivoli Storage Manager 5.2 under Aix 5.3
+      - CS Network Services: Network installations manager PhpGtk Mysql Excel
+      - Ministery of Justice: Gecos to Unix migration of the Criminal Records Application,
+        C Cobol Tuxedo Oracle HPUX Linux
+      - CEA: JSP intranet application using Java Websphere 5, Windows 2000
+      - Ionis: Migration of IREX/IPRICAS, insurance software from OS2 Warp4 to Win2K,
+        Perl, VisualC, WinAPI and DB2UDB7.x
+      - Giat Industries: Migration of LGD from GCOS to AIX 4.x (Leclerc Tank parts management),
+        Cobol Pacbase Perl C Html/Css/Cgi generator Oracle8.x AIX4 and Linux administration 
+
+  CFI, Paris - April 1998 to December 2000
+  Programmer, Unix expert, Oracle DBA: 
+    - System Administration Unix, OpenVMS and Oracle 7.x to 8.x,
+    - on-site installations and integration of the Harmonie accounting software,
+      SQL ProC ProCobol GuptaSqlWindows PVCS Ksh DCL
+
+EDUCATION
+
+  Theorical & practical knowledge by continuous self-training.
+  BTS Informatique (technical certificate ~Associate's Degree), Lycée Cassin, Strasbourg 1992.
